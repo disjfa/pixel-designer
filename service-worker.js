@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.892c380c2bf6e34e329889c7707c6f76.js"
+  "/pixel-designer/precache-manifest.887d1a7690dd4f6ab6fa0f4267afe689.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pixlr"});
