@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/pixel-designer/js/about.033cb22b.js"
   },
   {
-    "revision": "1f83749e454599bd3633",
+    "revision": "4855903983728f4fc32a",
     "url": "/pixel-designer/css/app.24290e66.css"
   },
   {
-    "revision": "1f83749e454599bd3633",
-    "url": "/pixel-designer/js/app.3bc04cda.js"
+    "revision": "4855903983728f4fc32a",
+    "url": "/pixel-designer/js/app.670d9f23.js"
   },
   {
     "revision": "e3e353b1bfbab398eb06",
     "url": "/pixel-designer/js/chunk-vendors.3818b2f3.js"
   },
   {
-    "revision": "517f80945a3134e3f2e62923bb3e1176",
+    "revision": "59563318f1f157be96b95a230c40175a",
     "url": "/pixel-designer/index.html"
   },
   {
